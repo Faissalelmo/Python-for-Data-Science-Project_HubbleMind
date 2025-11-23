@@ -1102,7 +1102,7 @@ import matplotlib.pyplot as plt
 
 **Faissal Elmokaddem**
 
-Data Science Engineer | Machine Learning Specialist | Healthcare Analytics Expert
+Data Science Engineer | Machine Learning Specialist | Healthcare Analytics 
 
 ### Expertise
 - 🤖 **Machine Learning** : Classification, regression, clustering
